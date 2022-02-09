@@ -1,1 +1,1 @@
-# Warrior-of-Galaxy-
+# Warrior-of-Galaxy-2D Game
